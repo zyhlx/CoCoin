@@ -81,3 +81,8 @@ CoCoin supports english and chinese. You can check the strings file here.
 > The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+
+一个详尽的个人财务记账应用, 界面干净漂亮.
+
+如果你想学习如何处理大量用户数据, 根据这些数据绘制各类图表, 写一些很酷的自定义View, 那么这个开源项目很适合你.
+
